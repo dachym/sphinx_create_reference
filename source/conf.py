@@ -53,8 +53,8 @@ extensions = [
     "sphinx.ext.autosectionlabel",
     # "numpydoc",
 ]
-extensions += ["class_mapper"] + special_extensions
-
+extensions += ["class_mapper"]
+extensions += special_extensions
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
