@@ -1,13 +1,4 @@
-.. _ClassToMap-documentation:
+.. class_directive_doc:: ClassToMap-Documentation
 
-Example
-#######
-
-.. automodule:: modules.first_module.example
-
-    .. rubric:: Classes
-
-    .. autosummary::
-
-        ClassToMap
-
+Example complete documentation
+##############################

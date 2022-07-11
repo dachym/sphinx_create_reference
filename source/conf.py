@@ -50,7 +50,7 @@ extensions = [
     "sphinx_rtd_theme",
     # Don't use autosectionlabel since many document may have the same section name
     # use explicit anchors when needed
-    "sphinx.ext.autosectionlabel",
+    # "sphinx.ext.autosectionlabel",
     # "numpydoc",
 ]
 extensions += ["class_mapper"]

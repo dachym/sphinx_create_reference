@@ -1,7 +1,4 @@
-Rst where list class docs
-=========================
+Rst where list class doc
+========================
 
 .. class_list_doc::
-
-:ref:`ClassToMap-documentation`
-

@@ -39,4 +39,6 @@ Thumbs.db
 # Editor backup files #
 #######################
 *~
-/.idea/
+.idea
+build
+.vscode
